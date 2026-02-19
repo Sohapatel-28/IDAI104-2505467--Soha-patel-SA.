@@ -968,7 +968,7 @@ with tabs[7]:
     st.markdown("---")
     st.markdown("""
     <div class="insight-box success">
-    <strong>📝 README Summary (for GitHub)</strong><br><br>
+    <strong> Summary </strong><br><br>
     This Streamlit dashboard delivers predictive maintenance analytics for TechLift Solutions.
     Using 4Hz elevator sensor data, it visualizes vibration trends, distributions, scatter relationships,
     outliers, and full correlation analysis across 8 interactive tabs — including a live simulation explorer
@@ -986,4 +986,5 @@ st.markdown("""
 <p style="text-align:center; color:#8b949e; font-size:0.8rem; font-family:'Space Mono',monospace;">
 🏢 TechLift Solutions · Smart Elevator Analytics · Mathematics for AI — Summative Assessment · Scenario 2
 </p>
+
 """, unsafe_allow_html=True)
